@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\sampa\Desktop\Chicken-Disease-Classification\Chicken-Disease-Classification-Project\chicken
+set VIRTUAL_ENV=C:\Users\sampa\Desktop\New folder (3)\Chicken-Disease-Classification-Projects\chicken
 
 if not defined PROMPT set PROMPT=$P$G
 

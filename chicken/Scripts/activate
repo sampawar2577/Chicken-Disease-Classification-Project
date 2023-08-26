@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\sampa\Desktop\Chicken-Disease-Classification\Chicken-Disease-Classification-Project\chicken"
+VIRTUAL_ENV="C:\Users\sampa\Desktop\New folder (3)\Chicken-Disease-Classification-Projects\chicken"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
